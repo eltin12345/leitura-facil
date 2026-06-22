@@ -11,3 +11,13 @@ body {
     justify-content: center;
     align-items: center;
 }
+.container {
+    width: 80%;
+    max-width: 700px;
+    background-color: white;
+    padding: 40px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 2);
+    
+}
